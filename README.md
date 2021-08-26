@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NomadicJazz
 - 👀 I’m interested in computer programing and security.
-- 🌱 I’m currently learning html,css and java script and I am novice in C++.
-- 💞️ I’m looking to collaborate on programing applications and games. 
+- 🌱 I’m currently learning html, css and java script and I am novice in C++.
+- 💞️ I’m looking to collaborate on programing applications and games as well as frontend development. 
 - 📫 you can reach me at jwalk719@yahoo.com
 
 <!---
