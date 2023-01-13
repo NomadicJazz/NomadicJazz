@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NomadicJazz
-- 👀 I’m interested in computer programing and security.
-- 🌱 I’m currently learning html, css and java script and I am novice in C++.
-- 💞️ I’m looking to collaborate on programing applications and games as well as frontend development. 
-- 📫 you can reach me at jwalk719@yahoo.com
+- 👀 I’m a software engineer/ios developer 
+- 🌱 Im proficient in the following languages, Python, Javascript, C++, SwiftUI
+- 💞️ I’m looking to collaborate on programing applications, games as well as fullstack development. 
+- 📫 you can reach me at jwalk719@gmail.com
 
 <!---
 NomadicJazz/NomadicJazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
